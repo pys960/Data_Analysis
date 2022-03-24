@@ -1,10 +1,14 @@
-## 📌데이터 분석 학습파일(Data Analysis Learning File)
+## 📖 데이터 분석 학습 파일(Data Analysis Learning File) 📖
+<br>
 
-### 소개(Intro)
+### 💡 소개(Intro)
 - 이곳은 '데이터 분석' 관련 현재까지 학습했던 파일들을 보관하고 있습니다.
 - 학원 강의, 온라인 강의, 서적, 개인실습 등등 폴더별로 각기 다른 학습폴더입니다. 
 
-### 진행목록(Progress List)
+<br>
+
+### 📋 진행 목록(Progress List)
 - '모두의 데이터분석 with 파이썬' : 서적 ( 22/03/16 ~ )
 
+<br>
 
